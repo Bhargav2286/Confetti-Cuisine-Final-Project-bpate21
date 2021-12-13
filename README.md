@@ -20,7 +20,7 @@
   -  1st Extra credit task:-  A return date should naturally come after a departure date. For that I used some reference from the internet and I found a comparison function. So with the help of that i did this extra credit work that if return date is lower than departure date there should be an error message.
    
   -  2nd Extra credit task:- only an authenticated, logged-in user should be able to create a new vacation package and edit/delete an existing one.
-     In this task simply put the logic of one variable that checks whether the user is login or not if the user is not login it simply disallows edit,create and delete     functinality.
+     In this task simply put the logic of one variable that checks whether the user is login or not if the user is not login it simply disallows edit,create and delete     functionality.
 
 # Technologies Used:-  
 - Node JS
