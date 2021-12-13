@@ -1,4 +1,4 @@
-# Confetti Cuisine Final Project:-
+# Confetti Cuisine Final Project by Bhargav Patel:-
 - So basically we did some changes in this final version of the project. 
 - We made one new page caller vacations which will be able to add , create and delete records of users.
 - For that we use Ejs, MongoDB,JSON,Node and Express.
@@ -17,7 +17,7 @@
 
 -Moreover, I also completed 2 extra credit parts:-
 
-  -  1st Extra credit for date:-  A return date should naturally come after a departure date. For that I used some reference from the internet and I found a comparison function.        So with the help of that i did this extra credit work that if return date is lower than departure date there should be an error message.
+  -  1st Extra credit task:-  A return date should naturally come after a departure date. For that I used some reference from the internet and I found a comparison function. So with the help of that i did this extra credit work that if return date is lower than departure date there should be an error message.
    
   -  2nd Extra credit task:- only an authenticated, logged-in user should be able to create a new vacation package and edit/delete an existing one.
      In this task simply put the logic of one variable that checks whether the user is login or not if the user is not login it simply disallows edit,create and delete     functinality.
