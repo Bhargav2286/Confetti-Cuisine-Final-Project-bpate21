@@ -1,6 +1,6 @@
 # Confetti Cuisine Final Project by Bhargav Patel:-
 - So basically we did some changes in this final version of the project. 
-- We made one new page caller vacations which will be able to add , create and delete records of users.
+- We made one new page call vacations which will be able to add , create and delete records of users.
 - For that we use Ejs, MongoDB,JSON,Node and Express.
 - There are some necessary requirements that you have to install  before you run this project in your system.
 - Installation of:-
